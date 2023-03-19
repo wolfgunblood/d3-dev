@@ -1,0 +1,23 @@
+body {
+  background: #f5f6f7;
+  color: #1b1b32;
+  font-family: Helvetica;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  font-size: 16px;
+}
+
+  
+  h1, p {
+    margin: 1em auto;
+    text-align: center;
+  }
+  
+  .container{
+    display: flex;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+  }
+  

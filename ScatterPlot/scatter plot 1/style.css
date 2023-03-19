@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:grey;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    
+}
+.container{
+    display: flex;
+    gap: 50px;
+
+}
+#mydata1{
+    height: 300px;
+    width: 300px;
+    background-color: antiquewhite;
+}
+#my_dataviz{
+    
+   padding: 20px;
+    border-style: solid ;
+    border-width: 20px;
+}
